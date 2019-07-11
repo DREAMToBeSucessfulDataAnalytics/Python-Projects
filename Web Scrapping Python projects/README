@@ -1,0 +1,2 @@
+I created the Script that tracks on any flipkart product availability and grab the deal when the product availability changes and 
+inform the user of availability through email. I have used Python, Request, Time, Schedule and Smtplib in this python project.
